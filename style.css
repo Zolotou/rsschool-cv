@@ -1,15 +1,16 @@
 body{
   width: 1024px;
   background-color: bisque;
+  align-self: center;
+  font-size: 16px;
+}
+
+h3{
   text-align: center;
 }
 
-header{
-
-}
-
-main{
-
+a{
+  
 }
 
 footer{
